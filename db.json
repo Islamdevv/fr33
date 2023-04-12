@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "title": "Taalaybek",
+      "price": "9000$",
+      "image": "https://softech.kg/image/cache/63ccea961faf68e3d9e4b6f1e4d845c8.jpg",
+      "id": 2
+    },
+    {
+      "title": "Azamat",
+      "price": "9000$",
+      "image": "https://softech.kg/image/cache/63ccea961faf68e3d9e4b6f1e4d845c8.jpg",
+      "id": 3
+    },
+    {
+      "title": "islam09",
+      "price": "9000$",
+      "image": "https://softech.kg/image/cache/63ccea961faf68e3d9e4b6f1e4d845c8.jpg",
+      "id": 4
+    },
+    {
+      "title": "islam",
+      "price": "9000$",
+      "image": "https://softech.kg/image/cache/63ccea961faf68e3d9e4b6f1e4d845c8.jpg",
+      "id": 5
+    },
+    {
+      "title": "islam",
+      "price": "9000$",
+      "image": "https://softech.kg/image/cache/63ccea961faf68e3d9e4b6f1e4d845c8.jpg",
+      "id": 6
+    }
+  ]
+}
